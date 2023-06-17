@@ -1,0 +1,1 @@
+# VS-PropertySheets-deprecated
